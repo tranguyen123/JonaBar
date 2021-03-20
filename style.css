@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: black
+    background: aliceblue;
+  }
+  header{
+    text-align: center;
+    background: url()
+    background-size: cover;
+    padding-top: 60px;
+    line-height: 1.5;
+  
+  }
+  footer{
+    width: 100%;
+    min-height: 30px;
+    padding: 20px 0 40px 20px;
+  }
+  footer .copyright{
+    top: -8px;
+    front-size: .75em;
+  }
